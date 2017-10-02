@@ -1,0 +1,5 @@
+[DATABASE]
+HOST=user123.sql.com
+USER=root
+PASSWORD=redwing
+SCHEMA=stock
